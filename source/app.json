@@ -1,0 +1,36 @@
+{
+    "id": "541dae4a-7cc4-43e0-ac1b-5faf698d14b2",
+    "name": "Pizzamodul NDU",
+    "publisher": "Aproda AG",
+    "version": "21.0.0.0",
+    "brief": "ASC",
+    "description": "Pizzamodul NDU",
+    "privacyStatement": "https://www.aproda.ch",
+    "EULA": "https://www.aproda.ch",
+    "help": "https://www.aproda.ch",
+    "url": "https://www.aproda.ch",
+    "contextSensitiveHelpUrl": "https://www.aproda.ch",
+    "logo": "Images/logo.png",
+    "features": [
+        "TranslationFile"
+    ],
+    "dependencies": [],
+    "screenshots": [],
+    "platform": "21.0.0.0",
+    "application": "21.0.0.0",
+    "idRanges": [
+        {
+            "from": 50000,
+            "to": 50999
+        }
+    ],
+    "runtime": "10.0",
+    "target":"OnPrem",
+    "applicationInsightsConnectionString": "00000000-aaaa-bbbb-cccc-dddddddddddd",
+    "resourceExposurePolicy": {
+        "allowDebugging": true,
+        "allowDownloadingSource": true,
+        "includeSourceInSymbolFile": true,
+        "applyToDevExtension": true
+    }
+}

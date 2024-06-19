@@ -1,0 +1,2427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="de-CH" original="Pizzamodul NDU">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 684962622 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address PizzaM</source>
+          <target state="translated">Adresse PizzaM</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Address PizzaM ASC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 684962622 - Field 3168444338 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address</source>
+          <target state="translated">Adresse</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Address PizzaM ASC - Field Address - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 684962622 - Field 714791889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>City</source>
+          <target state="translated">Ort</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Address PizzaM ASC - Field City - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 684962622 - Field 1541011875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>E-Mail</source>
+          <target state="translated">E-Mail</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Address PizzaM ASC - Field E-Mail - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 684962622 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target state="translated">Name</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Address PizzaM ASC - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 684962622 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target state="translated">Nr.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Address PizzaM ASC - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 684962622 - Field 1351594800 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Series</source>
+          <target state="translated">Nummernserie</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Address PizzaM ASC - Field No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 684962622 - Field 1768883755 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number of archived orders</source>
+          <target state="translated">Anzahl archivierter Bestellungen</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Address PizzaM ASC - Field Number of archived orders - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 684962622 - Field 2707944333 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number of open orders</source>
+          <target state="translated">Anzahl offener Bestellungen</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Address PizzaM ASC - Field Number of open orders - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 684962622 - Field 3956429994 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number of ratings</source>
+          <target state="translated">Anzahl Bewertungen</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Address PizzaM ASC - Field Number of ratings - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 684962622 - Field 2495133697 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Phone Number</source>
+          <target state="translated">Telefonnummer</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Address PizzaM ASC - Field Phone Number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 684962622 - Field 3660300303 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Post Code</source>
+          <target state="translated">PLZ</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Address PizzaM ASC - Field Post Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2901121093 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Adress</source>
+          <target state="translated">Adresse</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adress ASC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2901121093 - Field 1908536694 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Adress</source>
+          <target state="translated">Adresse</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adress ASC - Field Adress - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2901121093 - Field 4161345636 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Adress 2</source>
+          <target state="translated">Adresse 2</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adress ASC - Field Adress 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2901121093 - Field 714791889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>City</source>
+          <target state="translated">Ort</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adress ASC - Field City - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2901121093 - Field 1856816140 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Country</source>
+          <target state="translated">Land</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adress ASC - Field Country - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2901121093 - Field 1530605032 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Category</source>
+          <target state="translated">Kundenkategorie</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adress ASC - Field Customer Category - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2901121093 - Field 1541011875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>E-Mail</source>
+          <target state="translated">E-Mail</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adress ASC - Field E-Mail - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2901121093 - Field 2909674232 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Home Page</source>
+          <target state="translated">Homepage</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adress ASC - Field Home Page - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2901121093 - Field 352546477 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile Phone No.</source>
+          <target state="translated">Mobiltelefon Nummer.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adress ASC - Field Mobile Phone No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2901121093 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target state="translated">Name</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adress ASC - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2901121093 - Field 966287263 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name 2 </source>
+          <target state="translated">Name 2 </target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adress ASC - Field Name 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2901121093 - Field 2272340397 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number</source>
+          <target state="translated">Nummer</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adress ASC - Field Number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2901121093 - Field 3986423421 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Phone No.</source>
+          <target state="translated">Telefonno.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adress ASC - Field Phone No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2901121093 - Field 1594621544 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Picture</source>
+          <target state="translated">Bild</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adress ASC - Field Picture - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2901121093 - Field 3660300303 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Post Code</source>
+          <target state="translated">PLZ</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adress ASC - Field Post Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2901121093 - Field 411528779 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Search Name</source>
+          <target state="translated">Suchbegriff</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Adress ASC - Field Search Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3778040666 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bemerkungen My Adress</source>
+          <target state="translated">Bemerkungen für My Address</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Bemerkungen My Adress ASC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3778040666 - Field 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <target state="translated">Betrag</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Bemerkungen My Adress ASC - Field Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3778040666 - Field 263032801 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Information about the customer/vendor</source>
+          <target state="translated">Kundeninformationen</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Bemerkungen My Adress ASC - Field Info abt the customer/vendor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3778040666 - Field 973562546 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name of the owner</source>
+          <target state="translated">Name des Besitzers</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Bemerkungen My Adress ASC - Field Name of the owner - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3778040666 - Field 1779166591 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Other remarks</source>
+          <target state="translated">Andere Bemerkungen</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Bemerkungen My Adress ASC - Field Other remarks - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 722266433 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CuePizzaM</source>
+          <target state="translated">Pizzamodul Cue</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CuePizzaMASC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 722266433 - Field 2274532368 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Average Rating</source>
+          <target state="translated">Durchschnittliche Bewertung</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CuePizzaMASC - Field Average Rating - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 722266433 - Field 1244134302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Maximal Rating</source>
+          <target state="translated">Höchste Bewertung</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CuePizzaMASC - Field Maximal Rating - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 722266433 - Field 3194264864 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Minimal Rating</source>
+          <target state="translated">Niedrigste Bewertung</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CuePizzaMASC - Field Minimal Rating - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 722266433 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <target state="translated">Primary Key</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CuePizzaMASC - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 722266433 - Field 3276880169 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity of orders</source>
+          <target state="translated">Anzahl offener Bestellungen</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CuePizzaMASC - Field Quantity of Orders - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 722266433 - Field 4186984836 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity of archivated Orders</source>
+          <target state="translated">Anzahl der archivierten Bestellungen</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CuePizzaMASC - Field Quantiy of archivated Orders - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3150842545 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Menu PizzaM</source>
+          <target state="translated">Menu PizzaM</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Menu PizzaM ASC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3150842545 - Field 2274532368 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Average Rating</source>
+          <target state="translated">Durchschnittliche Bewertung</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Menu PizzaM ASC - Field Average Rating - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3150842545 - Field 1370883167 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Max. rating</source>
+          <target state="translated">Max. Bewertung</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Menu PizzaM ASC - Field Max. rating - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3150842545 - Field 3403023320 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Menu No.</source>
+          <target state="translated">Menunr.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Menu PizzaM ASC - Field Menu No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3150842545 - Field 924769629 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Min. rating</source>
+          <target state="translated">Min. Bewertung</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Menu PizzaM ASC - Field Min. rating - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3150842545 - Field 2144737478 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target state="translated">Name</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Menu PizzaM ASC - Field NameM - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3150842545 - Field 1351594800 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Series</source>
+          <target state="translated">Nummernserie</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Menu PizzaM ASC - Field No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3150842545 - Field 3956429994 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number of ratings</source>
+          <target state="translated">Anzahl Bewertungen</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Menu PizzaM ASC - Field Number of ratings - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3150842545 - Field 3635338911 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Price</source>
+          <target state="translated">Preis</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Menu PizzaM ASC - Field Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3150842545 - Field 3149258614 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity in archivated Orders</source>
+          <target state="translated">Anzahl der archivierten Bestellungen</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Menu PizzaM ASC - Field Quantity in archivated Orders - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3150842545 - Field 18454963 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity in orders</source>
+          <target state="translated">Anzahl offener Bestellungen</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Menu PizzaM ASC - Field Quantity in orders - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1620561633 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>My Adress</source>
+          <target state="translated">My Address</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table My Adress ASC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1620561633 - Field 1908536694 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Adress</source>
+          <target state="translated">Adresse</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table My Adress ASC - Field Adress - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1620561633 - Field 714791889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>City</source>
+          <target state="translated">Ort</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table My Adress ASC - Field City - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1620561633 - Field 1856816140 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Country</source>
+          <target state="translated">Land</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table My Adress ASC - Field Country - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1620561633 - Field 499448942 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>County</source>
+          <target state="translated">Kanton</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table My Adress ASC - Field County - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1620561633 - Field 1541011875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>E-Mail</source>
+          <target state="translated">E-Mail</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table My Adress ASC - Field E-Mail - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1620561633 - Field 3610862521 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>House Number</source>
+          <target state="translated">Hausnummer</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table My Adress ASC - Field House Number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1620561633 - Field 4126255789 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Insert Date</source>
+          <target state="translated">Einfügungsdatum</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table My Adress ASC - Field InsertDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1620561633 - Field 1339512958 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Time</source>
+          <target state="translated">Zeit</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table My Adress ASC - Field InsertTime - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1620561633 - Field 3424687613 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>UserID</source>
+          <target state="translated">UserID</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table My Adress ASC - Field InsertUserID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1620561633 - Field 2728289930 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Modified by UserID</source>
+          <target state="translated">Geändert von der UserID</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table My Adress ASC - Field ModifiedbyUserID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1620561633 - Field 549631256 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Modify Date</source>
+          <target state="translated">Änderungsdatum</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table My Adress ASC - Field ModifyDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1620561633 - Field 3454772727 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Modify Time</source>
+          <target state="translated">Änderungszeit</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table My Adress ASC - Field ModifyTime - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1620561633 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target state="translated">Name</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table My Adress ASC - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1620561633 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target state="translated">Nr.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table My Adress ASC - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1620561633 - Field 1351594800 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Series</source>
+          <target state="translated">Nummernserie</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table My Adress ASC - Field No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1620561633 - Field 3986423421 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Phone No.</source>
+          <target state="translated">Telefonnr.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table My Adress ASC - Field Phone No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1620561633 - Field 1594621544 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Picture</source>
+          <target state="translated">Bild</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table My Adress ASC - Field Picture - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1620561633 - Field 3660300303 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Post Code</source>
+          <target state="translated">PLZ</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table My Adress ASC - Field Post Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1983290134 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order Header Archive</source>
+          <target state="translated">Order Header Archiv</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Order Header Archive ASC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1983290134 - Field 2987506811 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address No. </source>
+          <target state="translated">Adressnr. </target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Order Header Archive ASC - Field Address No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1983290134 - Field 2274532368 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Average Rating</source>
+          <target state="translated">Durchschnittliche Bewertung</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Order Header Archive ASC - Field Average Rating - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1983290134 - Field 714791889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>City</source>
+          <target state="translated">Ort</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Order Header Archive ASC - Field City - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1983290134 - Field 1541011875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Text</source>
+          <target state="translated">Text</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Order Header Archive ASC - Field E-Mail - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1983290134 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target state="translated">Name</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Order Header Archive ASC - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1983290134 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target state="translated">Nr.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Order Header Archive ASC - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1983290134 - Field 1351594800 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Series</source>
+          <target state="translated">Nummernserie</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Order Header Archive ASC - Field No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1983290134 - Field 2632124822 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order Date</source>
+          <target state="translated">Auftragsdatum</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Order Header Archive ASC - Field Order Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1983290134 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <target state="translated">Status</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Order Header Archive ASC - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 73307089 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order Header Pizzamodul</source>
+          <target state="translated">Order Header Pizzamodul</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Order Header Pizzamodul ASC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 73307089 - Field 2987506811 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address No.</source>
+          <target state="translated">Adressnr.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Order Header Pizzamodul ASC - Field Address No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 73307089 - Field 2910591073 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Adresse</source>
+          <target state="translated">Adresse</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Order Header Pizzamodul ASC - Field Adresse - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 73307089 - Field 1747901232 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Average rating</source>
+          <target state="translated">Durchschnittliche Bewertung</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Order Header Pizzamodul ASC - Field Average rating - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 73307089 - Field 1176308215 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CalculatedPrice</source>
+          <target state="translated">Berechneter Preis</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Order Header Pizzamodul ASC - Field Calculated Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 73307089 - Field 714791889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>City</source>
+          <target state="translated">Ort</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Order Header Pizzamodul ASC - Field City - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 73307089 - Field 1541011875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>E-Mail</source>
+          <target state="translated">E-Mail</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Order Header Pizzamodul ASC - Field E-Mail - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 73307089 - Field 4048556071 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>E-Mail</source>
+          <target state="translated">E-Mail</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Order Header Pizzamodul ASC - Field E-MailL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 73307089 - Field 1370883167 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Max. Rating</source>
+          <target state="translated">Max. Bewertung</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Order Header Pizzamodul ASC - Field Max. rating - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 73307089 - Field 439715197 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Min. Rating</source>
+          <target state="translated">Min. Bewertung</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Order Header Pizzamodul ASC - Field Min. Rating - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 73307089 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target state="translated">Name</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Order Header Pizzamodul ASC - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 73307089 - Field 3509300612 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target state="translated">Name</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Order Header Pizzamodul ASC - Field NameLiferant - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 73307089 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target state="translated">Nr.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Order Header Pizzamodul ASC - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 73307089 - Field 1351594800 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Series</source>
+          <target state="translated">Nummernserie</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Order Header Pizzamodul ASC - Field No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 73307089 - Field 2632124822 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order Date</source>
+          <target state="translated">Bestelldatum</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Order Header Pizzamodul ASC - Field Order Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 73307089 - Field 1991561823 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name des Restaurants</source>
+          <target state="translated">Name des Restaurants</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Order Header Pizzamodul ASC - Field Restaurant - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 73307089 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <target state="translated">Status</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Order Header Pizzamodul ASC - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1607860285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order Line Archive</source>
+          <target state="translated">Order Line Archiv</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Order Line Archive ASC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1607860285 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <target state="translated">Zeilennr.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Order Line Archive ASC - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1607860285 - Field 3403023320 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Menu No.</source>
+          <target state="translated">Menunr.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Order Line Archive ASC - Field Menu No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1607860285 - Field 1351594800 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Series</source>
+          <target state="translated">Nummernserie</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Order Line Archive ASC - Field No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1607860285 - Field 2202932243 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order No.</source>
+          <target state="translated">Bestellnummer.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Order Line Archive ASC - Field Order No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1607860285 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity.</source>
+          <target state="translated">Menge.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Order Line Archive ASC - Field Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1607860285 - Field 2689469945 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rating</source>
+          <target state="translated">Bewertung</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Order Line Archive ASC - Field Rating - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1607860285 - Field 2812148497 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Price</source>
+          <target state="translated">Totaler PReis</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Order Line Archive ASC - Field Total Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1607860285 - Field 2937233469 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Price</source>
+          <target state="translated">Stückpreis</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Order Line Archive ASC - Field Unit Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 399897858 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order Line Pizzamodul</source>
+          <target state="translated">Order Line Pizzamodul</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Order Line Pizzamodul ASC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 399897858 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <target state="translated">Line No.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Order Line Pizzamodul ASC - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 399897858 - Field 3403023320 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Menu No.</source>
+          <target state="translated">Menunr.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Order Line Pizzamodul ASC - Field Menu No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 399897858 - Field 2202932243 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order No.</source>
+          <target state="translated">Bestellnr.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Order Line Pizzamodul ASC - Field Order No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 399897858 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <target state="translated">Menge</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Order Line Pizzamodul ASC - Field Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 399897858 - Field 2812148497 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Price</source>
+          <target state="translated">Totaler Preis</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Order Line Pizzamodul ASC - Field Total Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 399897858 - Field 2937233469 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Price</source>
+          <target state="translated">Stückpreis</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Order Line Pizzamodul ASC - Field Unit Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2077497541 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PizzaM Setup</source>
+          <target state="translated">PizzaM Setup</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PizzaM SetupASC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2077497541 - Field 4036982590 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address No. Series</source>
+          <target state="translated">Adresse Nummernserie</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PizzaM SetupASC - Field Address No.Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2077497541 - Field 509610229 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Archive Order No.</source>
+          <target state="translated">Archivbestellungsnzmmer</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PizzaM SetupASC - Field Archive Order No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2077497541 - Field 1036483942 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No. Series</source>
+          <target state="translated">Line No. Series</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PizzaM SetupASC - Field Line No.Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2077497541 - Field 1601049449 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Menu No. Seriea</source>
+          <target state="translated">Menunr. Series</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PizzaM SetupASC - Field Menu No.Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2077497541 - Field 3948771558 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order No.Series</source>
+          <target state="translated">Order No. Series</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PizzaM SetupASC - Field Order No.Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2077497541 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <target state="translated">Primary Key</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PizzaM SetupASC - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3833537043 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Postal Code</source>
+          <target state="translated">PLZ</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Postal Code ASC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3833537043 - Field 714791889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>City</source>
+          <target state="translated">Ort</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Postal Code ASC - Field City - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3833537043 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <target state="translated">Code</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Postal Code ASC - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3833537043 - Field 499448942 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>County</source>
+          <target state="translated">Kanton</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Postal Code ASC - Field County - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1644063206 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ReportHTML</source>
+          <target state="translated">HTMLBericht</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ReportHTMLASC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1644063206 - Field 1873957980 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FromAddress</source>
+          <target state="translated">Absenderadresse</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ReportHTMLASC - Field FromAddress - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1644063206 - Field 1147509962 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>HtmlBodyFilePath</source>
+          <target state="translated">HTMLBodyDateipfad</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ReportHTMLASC - Field HtmlBodyFilePath - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1644063206 - Field 1234124704 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Subject</source>
+          <target state="translated">Thema</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ReportHTMLASC - Field Subject - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1644063206 - Field 3806638999 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ToAddress</source>
+          <target state="translated">Empfängeradresse</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ReportHTMLASC - Field ToAddress - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3720390684 - Method 4094682059 - NamedType 1327832897" size-unit="char" translate="yes" xml:space="preserve">
+          <source>#1 von #2 Datensätze von Debitoren und #3 von #4 Datensätze von Kreditoren #5 von #6 Gesamte Datensätze kopiert.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Copy Adresses ASC - Method CopyAdresses - NamedType Text000Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1628492228 - Method 1665861916 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Datensatz #1 \von #2</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Copy Customer ASC - Method OnRun - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 980493676 - Method 1665861916 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Datensatz #1 \von #2 \Adress Nr. #3</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Count Adress ASC - Method OnRun - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Page 2549681967 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ActivitiesPZMASC</source>
+          <target state="translated">Aktivitäten</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ActivitiesPZMASC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2549681967 - Control 3335891521 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pizzamodul</source>
+          <target state="translated">Pizzamodul</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ActivitiesPZMASC - Control Pizzamodul - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2549681967 - Control 2274532368 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Average Rating field.</source>
+          <target state="translated">Gibt den Wert des Felds "Durchschnittliche Bewertung" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ActivitiesPZMASC - Control Average Rating - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2549681967 - Control 1244134302 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Maximal Rating</source>
+          <target state="translated">Höchste Bewertung</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ActivitiesPZMASC - Control Maximal Rating - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2549681967 - Control 3194264864 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Minimal Rating</source>
+          <target state="translated">Tiefste Bewertung</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ActivitiesPZMASC - Control Minimal Rating - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2549681967 - Control 3276880169 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity of orders</source>
+          <target state="translated">Anzahl offener Bestellungen</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ActivitiesPZMASC - Control Quantity of Orders - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2549681967 - Control 4186984836 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>quantity of archivated orders</source>
+          <target state="translated">Anzahl der archivierten Bestellungen</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ActivitiesPZMASC - Control Quantiy of archivated Orders - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2502286355 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address PizzaM C</source>
+          <target state="translated">Adress PizzaM</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Address PizzaM C ASC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2502286355 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target state="translated">Allgemein</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Address PizzaM C ASC - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2502286355 - Control 3168444338 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Address field.</source>
+          <target state="translated">Gibt den Wert des Felds "Adresse" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Address PizzaM C ASC - Control Address - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2502286355 - Control 714791889 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the City field.</source>
+          <target state="translated">Gibt den Wert des Felds "Ort" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Address PizzaM C ASC - Control City - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2502286355 - Control 1541011875 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the E-Mail field.</source>
+          <target state="translated">Gibt den Wert des Felds "E-Mail" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Address PizzaM C ASC - Control E-Mail - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2502286355 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Name field.</source>
+          <target state="translated">Gibt den Wert des Felds "Name" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Address PizzaM C ASC - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2502286355 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. field.</source>
+          <target state="translated">Gibt den Wert des Felds "No." an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Address PizzaM C ASC - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2502286355 - Control 2495133697 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Phone Number field.</source>
+          <target state="translated">Gibt den Wert des Felds "Telefonnummer" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Address PizzaM C ASC - Control Phone Number - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2502286355 - Control 3660300303 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Post Code field.</source>
+          <target state="translated">Gibt den Wert des Felds "PLZ" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Address PizzaM C ASC - Control Post Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1876029266 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address PizzaM l</source>
+          <target state="translated">Adresse PizzaM</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Address PizzaM l ASC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1876029266 - Control 3168444338 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Address field.</source>
+          <target state="translated">Gibt den Wert des Felds "Adresse" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Address PizzaM l ASC - Control Address - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1876029266 - Control 714791889 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the City field.</source>
+          <target state="translated">Gibt den Wert des Felds "Ort" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Address PizzaM l ASC - Control City - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1876029266 - Control 1541011875 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the E-Mail field.</source>
+          <target state="translated">Gibt den Wert des Felds "E-Mail" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Address PizzaM l ASC - Control E-Mail - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1876029266 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Name field.</source>
+          <target state="translated">Gibt den Wert des Felds "Name" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Address PizzaM l ASC - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1876029266 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. field.</source>
+          <target state="translated">Gibt den Wert des Felds "No." an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Address PizzaM l ASC - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1876029266 - Control 2495133697 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Phone Number field.</source>
+          <target state="translated">Gibt den Wert des Felds "Telefonnummer" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Address PizzaM l ASC - Control Phone Number - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1876029266 - Control 3660300303 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Post Code field.</source>
+          <target state="translated">Gibt den Wert des Felds "PLZ" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Address PizzaM l ASC - Control Post Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2901121093 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Adresses</source>
+          <target state="translated">Copy Adresses List</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adress ASC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2901121093 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target state="translated">Allgemein</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adress ASC - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2901121093 - Control 1908536694 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Adress field.</source>
+          <target state="translated">Gibt den Wert des Felds "Adresse" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adress ASC - Control Adress - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2901121093 - Control 4161345636 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Adress 2 field.</source>
+          <target state="translated">Gibt den Wert des Felds "Adresse 2" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adress ASC - Control Adress 2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2901121093 - Control 714791889 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the City field.</source>
+          <target state="translated">Gibt den Wert des Felds "Ort" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adress ASC - Control City - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2901121093 - Control 1856816140 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Country field.</source>
+          <target state="translated">Gibt den Wert des Felds "Land" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adress ASC - Control Country - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2901121093 - Control 1541011875 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the E-Mail field.</source>
+          <target state="translated">Gibt den Wert des Felds "E-Mail" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adress ASC - Control E-Mail - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2901121093 - Control 2909674232 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Home Page field.</source>
+          <target state="translated">Gibt den Wert des Felds "Homepage" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adress ASC - Control Home Page - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2901121093 - Control 352546477 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Mobile Phone No. field.</source>
+          <target state="translated">Gibt den Wert des Felds "Mobiltelefonnr." an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adress ASC - Control Mobile Phone No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2901121093 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Name field.</source>
+          <target state="translated">Gibt den Wert des Felds "Name" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adress ASC - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2901121093 - Control 966287263 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Name 2  field.</source>
+          <target state="translated">Gibt den Wert des Felds "Name 2" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adress ASC - Control Name 2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2901121093 - Control 2272340397 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Number field.</source>
+          <target state="translated">Gibt den Wert des Felds "Nummer" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adress ASC - Control Number - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2901121093 - Control 3986423421 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Phone No. field.</source>
+          <target state="translated">Gibt den Wert des Felds "Telefonnr" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adress ASC - Control Phone No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2901121093 - Control 1594621544 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Picture field.</source>
+          <target state="translated">Gibt den Wert des Felds "Bild" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adress ASC - Control Picture - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2901121093 - Control 3660300303 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Post Code field.</source>
+          <target state="translated">Gibt den Wert des Felds "PLZ" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adress ASC - Control Post Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2901121093 - Control 411528779 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Search Name field.</source>
+          <target state="translated">Gibt den Wert des Felds "Namen suchen" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adress ASC - Control Search Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3704324551 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Adresses</source>
+          <target state="translated">Copy Adresses List</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adresses ASC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3704324551 - Control 1908536694 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Adress field.</source>
+          <target state="translated">Gibt den Wert des Felds "Adresse" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adresses ASC - Control Adress - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3704324551 - Control 4161345636 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Adress 2 field.</source>
+          <target state="translated">Gibt den Wert des Felds "Adresse 2" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adresses ASC - Control Adress 2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3704324551 - Control 714791889 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the City field.</source>
+          <target state="translated">Gibt den Wert des Felds "Ort" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adresses ASC - Control City - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3704324551 - Control 1856816140 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Country field.</source>
+          <target state="translated">Gibt den Wert des Felds "Land" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adresses ASC - Control Country - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3704324551 - Control 1530605032 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Customer Category field.</source>
+          <target state="translated">Gibt den Wert des Felds "Kundenkategorie" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adresses ASC - Control Customer Category - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3704324551 - Control 1541011875 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the E-Mail field.</source>
+          <target state="translated">Gibt den Wert des Felds "E-Mail" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adresses ASC - Control E-Mail - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3704324551 - Control 2909674232 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Home Page field.</source>
+          <target state="translated">Gibt den Wert des Felds "Home page" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adresses ASC - Control Home Page - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3704324551 - Control 352546477 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Mobile Phone No. field.</source>
+          <target state="translated">Gibt den Wert des Felds "Mobiltelefonnr." an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adresses ASC - Control Mobile Phone No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3704324551 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Name field.</source>
+          <target state="translated">Gibt den Wert des Felds "Name" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adresses ASC - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3704324551 - Control 966287263 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Name 2  field.</source>
+          <target state="translated">Gibt den Wert des Felds "Name" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adresses ASC - Control Name 2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3704324551 - Control 2272340397 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Number field.</source>
+          <target state="translated">Gibt den Wert des Felds "Nummer" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adresses ASC - Control Number - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3704324551 - Control 3986423421 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Phone No. field.</source>
+          <target state="translated">Gibt den Wert des Felds "Telefonnr" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adresses ASC - Control Phone No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3704324551 - Control 1594621544 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Picture field.</source>
+          <target state="translated">Gibt den Wert des Felds "Bild" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adresses ASC - Control Picture - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3704324551 - Control 3660300303 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Post Code field.</source>
+          <target state="translated">Gibt den Wert des Felds "PLZ" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adresses ASC - Control Post Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3704324551 - Control 411528779 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Search Name field.</source>
+          <target state="translated">Gibt den Wert des Felds "Namen suchen" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adresses ASC - Control Search Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3704324551 - Action 3434902507 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the Count Adress ASC action.</source>
+          <target state="translated">Führt die Adresse Zählen Aktion aus.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adresses ASC - Action CountAdress - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3704324551 - Action 36190024 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the XML Port Import ASC action.</source>
+          <target state="translated">Führt die XML Port Aktion aus.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adresses ASC - Action Export - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3704324551 - Action 3201496503 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the XML Port Import ASC action.</source>
+          <target state="translated">Führt die XML Port Aktion aus.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adresses ASC - Action Import - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3704324551 - Action 3585795918 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the Modify Adress ASC action.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Adresses ASC - Action ModifyAdress - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3720390684 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Copy Adresses</source>
+          <target state="translated">Copy Adresses List</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Copy Adresses ASC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3720390684 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target state="translated">Allgemein</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Copy Adresses ASC - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3720390684 - Control 1908536694 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Adress field.</source>
+          <target state="translated">Gibt den Wert des Felds "Adresse" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Copy Adresses ASC - Control Adress - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3720390684 - Control 714791889 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the City field.</source>
+          <target state="translated">Gibt den Wert des Felds "Ort" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Copy Adresses ASC - Control City - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3720390684 - Control 1856816140 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Country field.</source>
+          <target state="translated">Gibt den Wert des Felds "Land" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Copy Adresses ASC - Control Country - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3720390684 - Control 499448942 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the County field.</source>
+          <target state="translated">Gibt den Wert des Felds "Kanton" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Copy Adresses ASC - Control County - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3720390684 - Control 1541011875 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the E-Mail field.</source>
+          <target state="translated">Gibt den Wert des Felds "E-Mail" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Copy Adresses ASC - Control E-Mail - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3720390684 - Control 3610862521 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the House Number field.</source>
+          <target state="translated">Gibt den Wert des Felds "Hausnummer" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Copy Adresses ASC - Control House Number - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3720390684 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Name field.</source>
+          <target state="translated">Gibt den Wert des Felds "Name" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Copy Adresses ASC - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3720390684 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Address field.</source>
+          <target state="translated">Gibt den Wert des Felds "Adresse" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Copy Adresses ASC - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3720390684 - Control 3986423421 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Phone No. field.</source>
+          <target state="translated">Gibt den Wert des Felds "Telefonnr" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Copy Adresses ASC - Control Phone No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3720390684 - Control 1594621544 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Picture field.</source>
+          <target state="translated">Gibt den Wert des Felds "Bild" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Copy Adresses ASC - Control Picture - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3720390684 - Control 3660300303 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Post Code field.</source>
+          <target state="translated">Gibt den Wert des Felds "PLZ" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Copy Adresses ASC - Control Post Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3720390684 - Action 4094682059 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the Copy Adresses ASC action.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Copy Adresses ASC - Action CopyAdresses - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4178758758 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Copy Adresses List</source>
+          <target state="translated">Copy Adresses List</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Copy Adresses List ASC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4178758758 - Control 1908536694 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Adress field.</source>
+          <target state="translated">Gibt den Wert des Felds "Adresse" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Copy Adresses List ASC - Control Adress - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4178758758 - Control 714791889 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the City field.</source>
+          <target state="translated">Gibt den Wert des Felds "Ort" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Copy Adresses List ASC - Control City - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4178758758 - Control 1856816140 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Country field.</source>
+          <target state="translated">Gibt den Wert des Felds "Land" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Copy Adresses List ASC - Control Country - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4178758758 - Control 499448942 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the County field.</source>
+          <target state="translated">Gibt den Wert des Felds "Kanton" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Copy Adresses List ASC - Control County - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4178758758 - Control 1541011875 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the E-Mail field.</source>
+          <target state="translated">Gibt den Wert des Felds "E-Mail" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Copy Adresses List ASC - Control E-Mail - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4178758758 - Control 4126255789 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the InsertDate field.</source>
+          <target state="translated">Gibt den Wert des Felds "InsertDate" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Copy Adresses List ASC - Control InsertDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4178758758 - Control 1339512958 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the InsertTime field.</source>
+          <target state="translated">Gibt den Wert des Felds "InsertTime" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Copy Adresses List ASC - Control InsertTime - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4178758758 - Control 3424687613 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the InsertUserID field.</source>
+          <target state="translated">Gibt den Wert des Felds "InsertUserID" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Copy Adresses List ASC - Control InsertUserID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4178758758 - Control 2728289930 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Modified by UserID field.</source>
+          <target state="translated">Gibt den Wert des Felds "Geändert von der UserID" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Copy Adresses List ASC - Control ModifiedbyUserID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4178758758 - Control 549631256 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Modify Date field.</source>
+          <target state="translated">Gibt den Wert des Felds "Veränderungsdatum" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Copy Adresses List ASC - Control ModifyDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4178758758 - Control 3454772727 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Modify Time field.</source>
+          <target state="translated">Gibt den Wert des Felds "Veränderungsdatum" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Copy Adresses List ASC - Control ModifyTime - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4178758758 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Name field.</source>
+          <target state="translated">Gibt den Wert des Felds "Name" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Copy Adresses List ASC - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4178758758 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. field.</source>
+          <target state="translated">Gibt den Wert des Felds "No." an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Copy Adresses List ASC - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4178758758 - Control 1351594800 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. Series field.</source>
+          <target state="translated">Gibt den Wert des Felds "No. Series" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Copy Adresses List ASC - Control No. Series - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4178758758 - Control 3986423421 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Phone No. field.</source>
+          <target state="translated">Gibt den Wert des Felds "Telefonnr" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Copy Adresses List ASC - Control Phone No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4178758758 - Control 1594621544 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Picture field.</source>
+          <target state="translated">Gibt den Wert des Felds "Bild" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Copy Adresses List ASC - Control Picture - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4178758758 - Control 3660300303 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Post Code field.</source>
+          <target state="translated">Gibt den Wert des Felds "PLZ" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Copy Adresses List ASC - Control Post Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4178758758 - Action 4094682059 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the Copy Adresses ASC action.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Copy Adresses List ASC - Action CopyAdresses - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1602003281 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FactBox Menu</source>
+          <target state="translated">Menu Factbox</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FactBox Menu ASC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1602003281 - Control 2274532368 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Average Rating field.</source>
+          <target state="translated">Gibt den Wert des Felds "Durchschnittliche Bewertung" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FactBox Menu ASC - Control Average Rating - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1602003281 - Control 1370883167 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Max. rating field.</source>
+          <target state="translated">Gibt den Wert des Felds "Max. Bewertung" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FactBox Menu ASC - Control Max. rating - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1602003281 - Control 924769629 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Min. rating field.</source>
+          <target state="translated">Gibt den Wert des Felds "Min. Bewertung" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FactBox Menu ASC - Control Min. rating - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1602003281 - Control 3956429994 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Number of ratings field.</source>
+          <target state="translated">Gibt den Wert des Felds "Anzahl Bewertungen" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FactBox Menu ASC - Control Number of ratings - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1602003281 - Control 3149258614 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Quantity in archivated orders field.</source>
+          <target state="translated">Gibt den Wert des Felds "Menge in archivierten BEstellungen" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FactBox Menu ASC - Control Quantity in archivated Orders - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1602003281 - Control 18454963 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Quantity in orders field.</source>
+          <target state="translated">Gibt den Wert des Felds "Menge in offenen Bestellungen" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FactBox Menu ASC - Control Quantity in orders - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3087730046 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FactBoxAddress</source>
+          <target state="translated">FactBox Adresse</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FactBoxAddressASC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3087730046 - Control 1768883755 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Number of archived orders field.</source>
+          <target state="translated">Gibt den Wert des Felds "Anzahl archivierter Bestellungen." an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FactBoxAddressASC - Control Number of archived orders - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3087730046 - Control 2707944333 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Number of open orders field.</source>
+          <target state="translated">Gibt den Wert des Felds "Anzahl offener BEstellungen." an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FactBoxAddressASC - Control Number of open orders - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3087730046 - Control 3956429994 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Number of ratings field.</source>
+          <target state="translated">Gibt den Wert des Felds "Anzahl Bewertungen" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FactBoxAddressASC - Control Number of ratings - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2950351015 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>KomfortFeaturesPM</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page KomfortFeaturesPMASC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2950351015 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target state="translated">Allgemein</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page KomfortFeaturesPMASC - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2950351015 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Name field.</source>
+          <target state="translated">Gibt den Wert des Felds "Name" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page KomfortFeaturesPMASC - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2950351015 - Control 2632124822 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Order Date field.</source>
+          <target state="translated">Gibt den Wert des Felds "Bestelldatum" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page KomfortFeaturesPMASC - Control Order Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 843763430 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Archive Subpage</source>
+          <target state="translated">Line Archiv Subpage</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Line Archive Subpage ASC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 843763430 - Control 3403023320 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Name field.</source>
+          <target state="translated">Gibt den Wert des Felds "Name" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Line Archive Subpage ASC - Control Menu No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 843763430 - Control 2704404533 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Quantity field.</source>
+          <target state="translated">Gibt den Wert des Felds "Menge" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Line Archive Subpage ASC - Control Quantity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 843763430 - Control 2689469945 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Rating field.</source>
+          <target state="translated">Gibt den Wert des Felds "Bewertung" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Line Archive Subpage ASC - Control Rating - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 843763430 - Control 3892224923 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Total Price field.</source>
+          <target state="translated">Gibt den Wert des Felds "Totaler Preis" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Line Archive Subpage ASC - Control Total Price. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 843763430 - Control 2937233469 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Unit Price field.</source>
+          <target state="translated">Gibt den Wert des Felds "Stückpreis" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Line Archive Subpage ASC - Control Unit Price - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2275680378 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ListPart Remark </source>
+          <target state="translated">Bemerkrkungen zum ListPart </target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ListPart Remark ASC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2275680378 - Control 636392376 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Amount field.</source>
+          <target state="translated">Gibt den Wert des Felds "Anzahl" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ListPart Remark ASC - Control Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2275680378 - Control 2368929369 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Information about the customer/vendor field.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ListPart Remark ASC - Control Information about the customer/vendor - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2275680378 - Control 973562546 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Name of the owner field.</source>
+          <target state="translated">Gibt den Wert des Felds "Name des Besitzers" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ListPart Remark ASC - Control Name of the owner - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2275680378 - Control 1779166591 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Other remarks field.</source>
+          <target state="translated">Gibt den Wert des Felds "Andere Bemerkungen" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ListPart Remark ASC - Control Other remarks - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1060416712 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Menu PizzaM c</source>
+          <target state="translated">Menu PizzaM</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Menu PizzaM c ASC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1060416712 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target state="translated">Allgemein</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Menu PizzaM c ASC - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1060416712 - Control 2144737478 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Name field.</source>
+          <target state="translated">Gibt den Wert des Felds "Name" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Menu PizzaM c ASC - Control NameM - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1060416712 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. field.</source>
+          <target state="translated">Gibt den Wert des Felds "Nr." an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Menu PizzaM c ASC - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1060416712 - Control 3635338911 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Price field.</source>
+          <target state="translated">Gibt den Wert des Felds "Preis" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Menu PizzaM c ASC - Control Price - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2875315741 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Menu PizzaM l</source>
+          <target state="translated">Menu PizzaM</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Menu PizzaM l ASC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2875315741 - Control 3403023320 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. field.</source>
+          <target state="translated">Gibt den Wert des Felds "No." an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Menu PizzaM l ASC - Control Menu No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2875315741 - Control 2144737478 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Name field.</source>
+          <target state="translated">Gibt den Wert des Felds "Name" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Menu PizzaM l ASC - Control NameM - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2875315741 - Control 3635338911 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Price field.</source>
+          <target state="translated">Gibt den Wert des Felds "Preis" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Menu PizzaM l ASC - Control Price - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4212269995 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order Header Archive l</source>
+          <target state="translated">Order Header Archiv</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Order Header Archive c ASC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4212269995 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target state="translated">Allgemein</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Order Header Archive c ASC - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4212269995 - Control 2987506811 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Address No.  field.</source>
+          <target state="translated">Gibt den Wert des Felds "Adresse" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Order Header Archive c ASC - Control Address No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4212269995 - Control 2274532368 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Average Rating field.</source>
+          <target state="translated">Gibt den Wert des Felds "Durchschnittliche Bewertung" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Order Header Archive c ASC - Control Average Rating - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4212269995 - Control 714791889 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the City field.</source>
+          <target state="translated">Gibt den Wert des Felds "Ort" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Order Header Archive c ASC - Control City - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4212269995 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Name field.</source>
+          <target state="translated">Gibt den Wert des Felds "Name" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Order Header Archive c ASC - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4212269995 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. field.</source>
+          <target state="translated">Gibt den Wert des Felds "Nr." an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Order Header Archive c ASC - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4212269995 - Control 2632124822 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Count field.</source>
+          <target state="translated">Gibt den Wert des Felds "Anzahl" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Order Header Archive c ASC - Control Order Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4212269995 - Action 1796227422 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the undo Archive action.</source>
+          <target state="translated">Führt die undo-Archivierungs-Aktion aus.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Order Header Archive c ASC - Action Undo Archive - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 120276297 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pizza Order</source>
+          <target state="translated">Pizza Order</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Order Header cc Pizzamodul ASC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 120276297 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target state="translated">Allgemein</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Order Header cc Pizzamodul ASC - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 120276297 - Control 2987506811 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Address No. field.</source>
+          <target state="translated">Gibt den Wert des Felds "Adress No." an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Order Header cc Pizzamodul ASC - Control Address No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 120276297 - Control 2910591073 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Adresse field.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Order Header cc Pizzamodul ASC - Control Adresse - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 120276297 - Control 714791889 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the City field.</source>
+          <target state="translated">Gibt den Wert des Felds "Ort" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Order Header cc Pizzamodul ASC - Control City - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 120276297 - Control 1541011875 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the E-Mail field.</source>
+          <target state="translated">Gibt den Wert des Felds "E-Mail" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Order Header cc Pizzamodul ASC - Control E-Mail - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 120276297 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Name field.</source>
+          <target state="translated">Gibt den Wert des Felds "Name" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Order Header cc Pizzamodul ASC - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 120276297 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. field.</source>
+          <target state="translated">Gibt den Wert des Felds "No." an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Order Header cc Pizzamodul ASC - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 120276297 - Control 2632124822 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Order Date field.</source>
+          <target state="translated">Gibt den Wert des Felds "BEstelldatum" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Order Header cc Pizzamodul ASC - Control Order Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 120276297 - Control 1991561823 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Name des Restaurants field.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Order Header cc Pizzamodul ASC - Control Restaurant - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 120276297 - Action 2723621103 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the Archive action.</source>
+          <target state="translated">Führt die Aktion "Archivieren" aus.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Order Header cc Pizzamodul ASC - Action Archive Header - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 120276297 - Action 3175130560 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the Create and send Message action.</source>
+          <target state="translated">Führt die Aktion "Mail erstellen und senden" aus.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Order Header cc Pizzamodul ASC - Action CreateAndSendMassage - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 120276297 - Action 3175130560 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create and send Message</source>
+          <target state="translated">Führt die Aktion "Mail erstellen und senden" aus</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Order Header cc Pizzamodul ASC - Action CreateAndSendMassage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4235443489 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pizza Orders</source>
+          <target state="translated">Pizza Orders</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Order Header l. PizzaM ASC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4235443489 - Control 2987506811 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Address No. field.</source>
+          <target state="translated">Gibt den Wert des Felds "Adresse" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Order Header l. PizzaM ASC - Control Address No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4235443489 - Control 2910591073 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Adresse field.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Order Header l. PizzaM ASC - Control Adresse - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4235443489 - Control 714791889 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the City field.</source>
+          <target state="translated">Gibt den Wert des Felds "Ort" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Order Header l. PizzaM ASC - Control City - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4235443489 - Control 1541011875 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the E-Mail field.</source>
+          <target state="translated">Gibt den Wert des Felds "E-Mail" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Order Header l. PizzaM ASC - Control E-Mail - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4235443489 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Name field.</source>
+          <target state="translated">Gibt den Wert des Felds "Name" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Order Header l. PizzaM ASC - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4235443489 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. field.</source>
+          <target state="translated">Gibt den Wert des Felds "No." an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Order Header l. PizzaM ASC - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4235443489 - Control 2632124822 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Order Date field.</source>
+          <target state="translated">Gibt den Wert des Felds "Bestelldatum" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Order Header l. PizzaM ASC - Control Order Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4235443489 - Control 1991561823 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Name des Restaurants field.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Order Header l. PizzaM ASC - Control Restaurant - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4235443489 - Action 1679109404 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Saves Document as HTMl File</source>
+          <target state="translated">Sichert das Document als HTML Datei</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Order Header l. PizzaM ASC - Action SaveReportasHTMl - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4235443489 - Action 1679109404 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SaveReportHTML</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Order Header l. PizzaM ASC - Action SaveReportasHTMl - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1607860285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order Line Archive</source>
+          <target state="translated">Order Line Archiv</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Order Line Archive ASC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1607860285 - Control 3320823955 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Line No. field.</source>
+          <target state="translated">Gibt den Wert des Felds "Line Nr." an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Order Line Archive ASC - Control Line No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1607860285 - Control 3403023320 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Menu No. field.</source>
+          <target state="translated">Gibt den Wert des Felds "Menu No." an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Order Line Archive ASC - Control Menu No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1607860285 - Control 2202932243 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Order No. field.</source>
+          <target state="translated">Gibt den Wert des Felds "Telefonnr" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Order Line Archive ASC - Control Order No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1607860285 - Control 2704404533 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Quantity field.</source>
+          <target state="translated">Gibt den Wert des Felds "Menge" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Order Line Archive ASC - Control Quantity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1607860285 - Control 2689469945 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Rating field.</source>
+          <target state="translated">Gibt den Wert des Felds "Bewertung" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Order Line Archive ASC - Control Rating - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1607860285 - Control 2812148497 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Total Price field.</source>
+          <target state="translated">Gibt den Wert des Felds "Totaler Preis" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Order Line Archive ASC - Control Total Price - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1607860285 - Control 2937233469 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Unit Price field.</source>
+          <target state="translated">Gibt den Wert des Felds "Stückpreis" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Order Line Archive ASC - Control Unit Price - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3545177873 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order Line PZ l</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Order Line PZ l ASC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3545177873 - Control 3320823955 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Line No. field.</source>
+          <target state="translated">Gibt den Wert des Felds "Line Nr." an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Order Line PZ l ASC - Control Line No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3545177873 - Control 3403023320 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Menu No. field.</source>
+          <target state="translated">Gibt den Wert des Felds "Menu No." an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Order Line PZ l ASC - Control Menu No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3545177873 - Control 2202932243 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Order No. field.</source>
+          <target state="translated">Gibt den Wert des Felds "Telefonnr" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Order Line PZ l ASC - Control Order No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3545177873 - Control 2704404533 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Quantity field.</source>
+          <target state="translated">Gibt den Wert des Felds "Menge" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Order Line PZ l ASC - Control Quantity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3545177873 - Control 2812148497 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Total Price field.</source>
+          <target state="translated">Gibt den Wert des Felds "Totaler Preis" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Order Line PZ l ASC - Control Total Price - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3545177873 - Control 2937233469 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Unit Price field.</source>
+          <target state="translated">Gibt den Wert des Felds "Stückpreis" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Order Line PZ l ASC - Control Unit Price - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3105532663 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pizza Line Archive</source>
+          <target state="translated">Pizza Line Archive</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Pizza Line Archive ASC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3105532663 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target state="translated">Allgemein</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Pizza Line Archive ASC - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3105532663 - Control 3320823955 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Line No. field.</source>
+          <target state="translated">Gibt den Wert des Felds "Line Nr." an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Pizza Line Archive ASC - Control Line No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3105532663 - Control 3403023320 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Menu No. field.</source>
+          <target state="translated">Gibt den Wert des Felds "Menu No." an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Pizza Line Archive ASC - Control Menu No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3105532663 - Control 2202932243 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Order No. field.</source>
+          <target state="translated">Gibt den Wert des Felds "Telefonnr" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Pizza Line Archive ASC - Control Order No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 519321818 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pizza Orders Archive</source>
+          <target state="translated">Pizza Orders Archive</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Pizza Orders Archive ASC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 519321818 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target state="translated">Allgemein</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Pizza Orders Archive ASC - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 519321818 - Control 2987506811 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Address No.  field.</source>
+          <target state="translated">Gibt den Wert des Felds "Adresse" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Pizza Orders Archive ASC - Control Address No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 519321818 - Control 714791889 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the City field.</source>
+          <target state="translated">Gibt den Wert des Felds "Ort" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Pizza Orders Archive ASC - Control City - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 519321818 - Control 1541011875 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Text field.</source>
+          <target state="translated">Gibt den Wert des Felds "Text" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Pizza Orders Archive ASC - Control E-Mail - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 519321818 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Name field.</source>
+          <target state="translated">Gibt den Wert des Felds "Name" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Pizza Orders Archive ASC - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 519321818 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. field.</source>
+          <target state="translated">Gibt den Wert des Felds "No." an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Pizza Orders Archive ASC - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 519321818 - Control 2632124822 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Count field.</source>
+          <target state="translated">Gibt den Wert des Felds "Anzahl" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Pizza Orders Archive ASC - Control Order Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 519321818 - Action 886126111 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the Delete Everything action.</source>
+          <target state="translated">Alles löschen.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Pizza Orders Archive ASC - Action DeletEverything - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 519321818 - Action 886126111 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete Everything</source>
+          <target state="translated">Alles Löschen</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Pizza Orders Archive ASC - Action DeletEverything - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2130367613 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PizzaM Setup</source>
+          <target state="translated">PizzaM Setup</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PizzaM Setup ASC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2130367613 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target state="translated">Allgemein</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PizzaM Setup ASC - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2130367613 - Control 4036982590 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the End No. field.</source>
+          <target state="translated">Gibt den Wert des Felds "End Nr." an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PizzaM Setup ASC - Control Address No.Series - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2130367613 - Control 509610229 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Archive Order No. field.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PizzaM Setup ASC - Control Archive Order No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2130367613 - Control 1036483942 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the End No. field.</source>
+          <target state="translated">Gibt den Wert des Felds "End No." an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PizzaM Setup ASC - Control Line No.Series - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2130367613 - Control 1601049449 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Start No. field.</source>
+          <target state="translated">Gibt den Wert des Felds "Start No." an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PizzaM Setup ASC - Control Menu No.Series - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2130367613 - Control 3948771558 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Order Header No.Series field.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PizzaM Setup ASC - Control Order No.Series - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2130367613 - Control 1663593181 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Code field.</source>
+          <target state="translated">Gibt den Wert des Felds "Code" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PizzaM Setup ASC - Control Primary Key - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3833537043 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Postal Code</source>
+          <target state="translated">PLZ</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Postal Code ASC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3833537043 - Control 714791889 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the City field.</source>
+          <target state="translated">Gibt den Wert des Felds "Ort" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Postal Code ASC - Control City - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3833537043 - Control 3004954119 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Code field.</source>
+          <target state="translated">Gibt den Wert des Felds "Code" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Postal Code ASC - Control Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3833537043 - Control 499448942 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Country field.</source>
+          <target state="translated">Gibt den Wert des Felds "Land" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Postal Code ASC - Control County - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3833537043 - Action 36190024 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the XML Port Export ASC action.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Postal Code ASC - Action Export - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3833537043 - Action 3201496503 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the XML Port Export ASC action.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Postal Code ASC - Action Import - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3740668307 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RoleCenterPZMASC</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RoleCenterPZMASC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 937433045 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Menu</source>
+          <target state="translated">Menu</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SubPage PizzaM ASC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 937433045 - Control 3403023320 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Menu No. field.</source>
+          <target state="translated">Gibt den Wert des Felds "Menu No." an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SubPage PizzaM ASC - Control Menu No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 937433045 - Control 2704404533 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Quantity field.</source>
+          <target state="translated">Gibt den Wert des Felds "Menge" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SubPage PizzaM ASC - Control Quantity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 937433045 - Control 2812148497 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Total Price field.</source>
+          <target state="translated">Gibt den Wert des Felds "Totaler Preis" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SubPage PizzaM ASC - Control Total Price - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 937433045 - Control 2937233469 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Unit Price field.</source>
+          <target state="translated">Gibt den Wert des Felds "Stückpreis" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SubPage PizzaM ASC - Control Unit Price - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1971839293 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ReportPZM3</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ReportPZM3ASC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1971839293 - NamedType 2604511471" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Adresse Restaurant</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ReportPZM3ASC - NamedType AdresseLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1971839293 - NamedType 2605496875" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Adress No</source>
+          <target state="translated">Adress Nr</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ReportPZM3ASC - NamedType AdressNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1971839293 - NamedType 2287130849" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Endbetrag</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ReportPZM3ASC - NamedType CalculatedPriceLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1971839293 - NamedType 1981706351" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target state="translated">Name</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ReportPZM3ASC - NamedType NameLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1971839293 - NamedType 110443574" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name des Menus</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ReportPZM3ASC - NamedType NameMLbl2</note>
+        </trans-unit>
+        <trans-unit id="Report 1971839293 - NamedType 1314000525" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ReportPZM3ASC - NamedType NoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1971839293 - NamedType 2174691427" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <target state="translated">Menge</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ReportPZM3ASC - NamedType QuantityLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1971839293 - NamedType 788869057" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name Restaurant</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ReportPZM3ASC - NamedType RestaurantLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1971839293 - NamedType 3810774071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Totalpreis</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ReportPZM3ASC - NamedType TotalPriceLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1971839293 - NamedType 2786556803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Stückpreis</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ReportPZM3ASC - NamedType UnitPriceLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 100929234 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ReportPZM Address</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ReportPZMAddress ASC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 100929234 - NamedType 736308216" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address</source>
+          <target state="translated">Adresse</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ReportPZMAddress ASC - NamedType AddressLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 100929234 - NamedType 552261855" size-unit="char" translate="yes" xml:space="preserve">
+          <source>City</source>
+          <target state="translated">Ort</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ReportPZMAddress ASC - NamedType CityLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 100929234 - NamedType 1981706351" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target state="translated">Name</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ReportPZMAddress ASC - NamedType NameLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 100929234 - NamedType 2723639224" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Archivierte Bestellungen</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ReportPZMAddress ASC - NamedType Number_of_archived_ordersLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 100929234 - NamedType 3662744586" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Offene Bestellungen</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ReportPZMAddress ASC - NamedType Number_of_open_ordersLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 100929234 - NamedType 3475133752" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Anzahl Bewertungen</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ReportPZMAddress ASC - NamedType Number_of_ratingsLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 100929234 - NamedType 2816184537" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Post Code</source>
+          <target state="translated">PLZ</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ReportPZMAddress ASC - NamedType PostCodeLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 235306948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ReportPZMH</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ReportPZMH ASC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 235306948 - NamedType 2605496875" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Adress No</source>
+          <target state="translated">Adress Nr</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ReportPZMH ASC - NamedType AdressNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 235306948 - NamedType 2287130849" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Endbetrag</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ReportPZMH ASC - NamedType CalculatedPriceLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 235306948 - NamedType 1981706351" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target state="translated">Name</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ReportPZMH ASC - NamedType NameLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 235306948 - NamedType 110443574" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name des Menus</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ReportPZMH ASC - NamedType NameMLbl2</note>
+        </trans-unit>
+        <trans-unit id="Report 235306948 - NamedType 1314000525" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ReportPZMH ASC - NamedType NoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 235306948 - NamedType 2174691427" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <target state="translated">Menge</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ReportPZMH ASC - NamedType QuantityLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 235306948 - NamedType 3810774071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Totalpreis</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ReportPZMH ASC - NamedType TotalPriceLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 235306948 - NamedType 2786556803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Stückpreis</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ReportPZMH ASC - NamedType UnitPriceLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 766995171 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ReportTest</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ReportTest ASC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 766995171 - NamedType 3285233284" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <target state="translated">Betrag</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ReportTest ASC - NamedType AmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 766995171 - NamedType 2404991051" size-unit="char" translate="yes" xml:space="preserve">
+          <source>E-Mail</source>
+          <target state="translated">E-Mail</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ReportTest ASC - NamedType CustEMailCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 766995171 - NamedType 817831222" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="translated">Beschreibung</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ReportTest ASC - NamedType DescriptionCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 766995171 - NamedType 2869310181" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Type</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ReportTest ASC - NamedType DocumentTypeCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 766995171 - NamedType 1085275642" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Amount</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ReportTest ASC - NamedType LineAmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 766995171 - NamedType 1292293871" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number</source>
+          <target state="translated">Nummer</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ReportTest ASC - NamedType NoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 766995171 - NamedType 3225084181" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Sales Line</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ReportTest ASC - NamedType NoSalesLineCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 766995171 - NamedType 2371882434" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order Date</source>
+          <target state="translated">Bestelldatum</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ReportTest ASC - NamedType OrderDateCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 766995171 - NamedType 3246368361" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <target state="translated">Menge</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ReportTest ASC - NamedType QuantityCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 766995171 - NamedType 2570214568" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <target state="translated">Debitoren Nr.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ReportTest ASC - NamedType SelltoCustomerNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 766995171 - NamedType 3659909257" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Price</source>
+          <target state="translated">Stückpreis</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ReportTest ASC - NamedType UnitPriceCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 766995171 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ReportTest ASC - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 766995171 - Control 280783863 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print Company Logo</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ReportTest ASC - Control PrintCompanyLogo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1557069730 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>XML Port Import</source>
+          <target state="translated">Führt die XML Port Aktion aus</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort Adress Import ASC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 2944033367 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>XML Port</source>
+          <target state="translated">XML Port 2</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort Contact export ASC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 638278107 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CustomerExport </source>
+          <target state="translated">Kundenexport  </target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort CustomerExport ASC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1643664567 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>XML Port 2</source>
+          <target state="translated">XML Port 2</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort Export ASC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 2969854344 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import ASC</source>
+          <target state="translated">Import ASC</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort Import ASC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3664151599 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Customer</source>
+          <target state="translated">Debitor</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Customer ASC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3664151599 - Action 3619816418 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Copy Data</source>
+          <target state="translated">Daten kopieren</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Customer ASC - Action Copy AdressASC - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3664151599 - Action 2402578963 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Customer ExportASC</source>
+          <target state="translated">Customer Export ASC</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Customer ASC - Action CustomerExportASC - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3664151599 - Action 3467699393 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Delete Copied Adress 1 ASC</source>
+          <target state="translated">Kopierte Adressen löschen</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Customer ASC - Action Delete Copied Adress 1ASC - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3664151599 - Action 3633333280 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Delete Copied Adress 2 ASC</source>
+          <target state="translated">Kopierte Adressen löschen</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Customer ASC - Action Delete Copied Adress 2ASC - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3664151599 - Control 4170427111 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Specifies the value of the Customer field.</source>
+          <target state="translated">Gibt den Wert des Felds "Kunde" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Customer ASC - Control CopiedASC - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3329218769 - Control 4158940817 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4145206282">
+          <source>Specifies the value of the Address field.</source>
+          <target state="translated">Gibt den Wert des Felds "Adresse" an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sales Setup Extension ASC - Control Address NumbersASC - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3664151599 - Field 4170427111 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Copied</source>
+          <target state="translated">Kopiert</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Customer ASC - Field CopiedASC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2210378728 - Field 101222581 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4145206282">
+          <source>Adress Numbers</source>
+          <target state="translated">Adresse Nummern</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Sale Setup extension ASC - Field Adress NumbersASC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 207307543 - EnumValue 18652612 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source/>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Customer Category ASC - EnumValue  - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 207307543 - EnumValue 3939861283 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>A</source>
+          <target state="translated">A</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Customer Category ASC - EnumValue A - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 207307543 - EnumValue 1557983838 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>B</source>
+          <target state="translated">B</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Customer Category ASC - EnumValue B - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 207307543 - EnumValue 920287221 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>C</source>
+          <target state="translated">C</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Customer Category ASC - EnumValue C - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
